@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Odak / Acil"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#333333"/>
+
+    <ImageView
+        android:id="@+id/btnSort"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:src="@android:drawable/ic_menu_sort_by_size"
+        android:layout_alignParentEnd="true"
+        app:tint="#6200EE"
+        xmlns:app="http://schemas.android.com/apk/res-auto"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sırala"
+        android:layout_toStartOf="@id/btnSort"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="6dp"
+        android:textColor="#6200EE"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerFocus"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tvTitle"
+        android:layout_marginTop="16dp"/>
+
+</RelativeLayout>
