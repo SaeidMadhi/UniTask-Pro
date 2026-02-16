@@ -37,6 +37,3 @@ UniTask Pro is a robust and user-friendly Android application designed to help u
 ## 👨‍💻 Developer
 
 Developed by **Saeid Madhilaleh** as a Computer Engineering Senior Design Project.
-
----
-*Feel free to star ⭐ this repository if you find it useful!*
