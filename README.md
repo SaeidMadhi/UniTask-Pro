@@ -27,11 +27,11 @@ UniTask Pro is a robust and user-friendly Android application designed to help u
 ## 📸 Screenshots
 <p align="center">
   <img src="1t.jpg" width="45%" />
-  <img src="4t.png" width="45%" />
+  <img src="4t.jpg" width="45%" />
 </p>
 <p align="center">
-  <img src="3t.png" width="45%" />
-  <img src="2t.png" width="45%" />
+  <img src="3t.jpg" width="45%" />
+  <img src="2t.jpg" width="45%" />
 </p>
 
 ## 📦 How to Run
