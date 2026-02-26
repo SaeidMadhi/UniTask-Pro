@@ -25,10 +25,10 @@ UniTask Pro is a robust and user-friendly Android application designed to help u
 * **Version Control:** Git
 
 ## 📸 Screenshots
-![AI Text Predictor](1t.png)  
-![AI Text Predictor](4t.png)  
-![AI Text Predictor](3t.png)  
-![AI Text Predictor](2t.png)  
+![AI Text Predictor](1t.jpg)  
+![AI Text Predictor](4t.jpg)  
+![AI Text Predictor](3t.jpg)  
+![AI Text Predictor](2t.jpg)  
 
 ## 📦 How to Run
 
